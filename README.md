@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - [stack overflow](https://stackoverflow.com/)
 - [google scholar](https://scholar.google.com/)
+- [zhihu](https://wwww.zhihu.com)
+- [v2ex](https://www.v2ex.com/)
+
+## 
